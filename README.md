@@ -1,2 +1,2 @@
 # coderigor
-Code Rigor and Reproducibility with R
+Modified Code Rigor and Reproducibility with R
